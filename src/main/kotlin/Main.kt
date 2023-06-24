@@ -1,0 +1,1 @@
+fun main() = Minesweeper(9).start()
